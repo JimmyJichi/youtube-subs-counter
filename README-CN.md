@@ -1,4 +1,8 @@
 # YouTube-Subs-Counter
+
+
+[English](https://github.com/JJaicmkmy/youtube-subs-counter)
+
 此 App 会在你的桌面上放置一个小工具，让你可以随时查看自己的 YouTube 频道的订阅数。
 
 ![](https://i.imgur.com/RzCYXNm.jpg)
