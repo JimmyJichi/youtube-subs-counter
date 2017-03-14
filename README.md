@@ -1,7 +1,7 @@
 # YouTube-Subs-Counter
 This app can add a widget to your desktop, so you can see your live subscriber count at any time.
 
-![](https://cdn.jichi.io/2017-03-15-screenshot.png)
+![](https://i.imgur.com/RzCYXNm.jpg)
 
 
 ## Configure
