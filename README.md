@@ -26,4 +26,4 @@ Make sure to change the platform and version to the actual circumstance.
 In theory, this should work in all platforms, however, I've used some APIs that only works with Mac, so you may have some problem to run in on Windows and Linux.
 
 ## Credit
-This is app is simply a electron wrap of [youtube-realtime](https://github.com/akshatmittal/youtube-realtime). Many thanks to [Akshat Mittal[(https://github.com/akshatmittal) for this amazing stuff.
+This is app is simply a electron wrap of [youtube-realtime](https://github.com/akshatmittal/youtube-realtime). Many thanks to [Akshat Mittal](https://github.com/akshatmittal) for this amazing stuff.
