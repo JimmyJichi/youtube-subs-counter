@@ -1,4 +1,5 @@
 # YouTube-Subs-Counter
+[中文](https://github.com/JJaicmkmy/youtube-subs-counter/blob/master/README-CN.md)
 This app can add a widget to your desktop, so you can see your live subscriber count at any time.
 
 ![](https://i.imgur.com/RzCYXNm.jpg)
