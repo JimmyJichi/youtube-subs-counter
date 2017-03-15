@@ -9,7 +9,7 @@
 
 
 ## Configure
-前往 `index.html`， 将 https://akshatmittal.com/youtube-realtime/embed/#!/UC-lHJZR3Gqxm24_Vd_AJ5Yw 更改为你自己的频道ID。
+前往 `index.html`， 将 UC-lHJZR3Gqxm24_Vd_AJ5Yw 更改为你自己的频道ID。
 
 然后
 
