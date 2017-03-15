@@ -9,7 +9,7 @@ This app can add a widget to your desktop, so you can see your live subscriber c
 
 
 ## Configure
-Go to `index.html`, edit https://akshatmittal.com/youtube-realtime/embed/#!/UC-lHJZR3Gqxm24_Vd_AJ5Yw with your channel ID.
+Go to `index.html`, replace UC-lHJZR3Gqxm24_Vd_AJ5Yw with your channel ID.
 
 then
 
