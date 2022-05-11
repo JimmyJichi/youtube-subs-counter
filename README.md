@@ -1,3 +1,4 @@
+# ABANDONED - NO LONGER FUNCTIONAL
 # YouTube-Subs-Counter
 
 [中文](https://github.com/JJaicmkmy/youtube-subs-counter/blob/master/README-CN.md)
